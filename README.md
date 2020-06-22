@@ -1,5 +1,5 @@
 # Income Classification Using Logistic Regression
-**Model Deployed using Flask and Heroku**
+**Model Deployed using Flask and Heroku**<br>
 Link: https://income-classification-model.herokuapp.com/
 Used Logistic Regression to predict the income class of person based on given fields of information.
 
